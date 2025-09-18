@@ -60,35 +60,36 @@ FER(Facial Expression Recognition)
 
 
 Now for frontend and backend read carefully you can use :  
+            
             mainly three file here are app.py, requirements.txt and test.py are used for the backend. I used pycharm for the backend, below is the project structure as you can see
 
             All of the js file and css file are used for the frontend. I used vs code for the frontend below is the project structure as you can see
 
 
-            emotion-detection-app/
-├── backend/
-│   ├── app.py                  
-│   ├── requirements.txt
-│   ├── models/
-│   │   ├── fer_model.h5
-│   │   └── (other model files)
-│   └── utils/
-│       └── (utility files)
-├── frontend/
-│   ├── public/
-│   │   └── index.html
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── EmotionDetector.js  
-│   │   │   ├── EmotionDetector.css  
-│   │   │   ├── Navbar.js
-│   │   │   ├── Home.js
-│   │   │   └── Contact.js
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── (other files)
-│   ├── package.json
-│   └── package-lock.json
-├── test_fer_model.py          
-└── README.md
+                  emotion-detection-app/
+                  ├── backend/
+                  │   ├── app.py                  
+                  │   ├── requirements.txt
+                  │   ├── models/
+                  │   │   ├── fer_model.h5
+                  │   │   └── (other model files)
+                  │   └── utils/
+                  │       └── (utility files)
+                  ├── frontend/
+                  │   ├── public/
+                  │   │   └── index.html
+                  │   ├── src/
+                  │   │   ├── components/
+                  │   │   │   ├── EmotionDetector.js  
+                  │   │   │   ├── EmotionDetector.css  
+                  │   │   │   ├── Navbar.js
+                  │   │   │   ├── Home.js
+                  │   │   │   └── Contact.js
+                  │   │   ├── App.js
+                  │   │   ├── index.js
+                  │   │   └── (other files)
+                  │   ├── package.json
+                  │   └── package-lock.json
+                  ├── test_fer_model.py          
+                  └── README.md
       
