@@ -1,0 +1,15 @@
+tensorflow==2.13.1
+keras==2.13.1
+deepface==0.0.93
+numpy==1.24.3
+pandas==2.1.1
+opencv-python==4.8.1.78
+mtcnn==0.1.1
+tqdm==4.65.0
+Pillow==10.0.0
+Flask==2.3.3
+flask-cors==6.0.1
+gdown==4.7.1
+retina-face==0.0.17
+fire==0.7.1
+gunicorn==23.0.0
