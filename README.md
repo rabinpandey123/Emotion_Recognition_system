@@ -59,4 +59,6 @@ FER(Facial Expression Recognition)
       Predicted Emotion: 😀 Happy, age, Gender (Confidence: 95.3%)
 
 
-
+Now for frontend and backend read carefully you can use :
+      mainly three file here are app.py requirements.txt and test.py are used for the backend. I used pycharm for the backend, below is the project structure as you can see
+      
